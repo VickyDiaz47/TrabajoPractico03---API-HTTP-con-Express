@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "nombre": "Guitarra criolla",
+    "familia": "cuerda",
+    "origen": "España",
+    "descripcion": "Instrumento de cuerda pulsada con seis cuerdas, utilizado en música popular y académica.",
+    "disponible": true
+  },
+  {
+    "id": 2,
+    "nombre": "Saxofón alto",
+    "familia": "viento",
+    "origen": "Bélgica",
+    "descripcion": "Instrumento de viento con cuerpo metálico y lengüeta simple, frecuente en jazz y música popular.",
+    "disponible": true
+  },
+  {
+    "id": 3,
+    "nombre": "Cajón peruano",
+    "familia": "percusión",
+    "origen": "Perú",
+    "descripcion": "Caja de madera que se percute con las manos y produce diferentes sonidos según la zona golpeada.",
+    "disponible": true
+  },
+  {
+    "id": 4,
+    "nombre": "Violín",
+    "familia": "cuerda",
+    "origen": "Italia",
+    "descripcion": "Instrumento de cuatro cuerdas que se ejecuta principalmente con arco.",
+    "disponible": false
+  },
+  {
+    "id": 5,
+    "nombre": "Flauta traversa",
+    "familia": "viento",
+    "origen": "Europa",
+    "descripcion": "Instrumento de viento de tubo metálico que se toca de forma transversal mediante una embocadura lateral.",
+    "disponible": true
+  },
+  {
+    "id": 6,
+    "nombre": "Piano digital",
+    "familia": "teclado",
+    "origen": "Japón",
+    "descripcion": "Instrumento electrónico que reproduce sonidos de piano mediante teclas sensibles a la interpretación.",
+    "disponible": false
+  }
+]
